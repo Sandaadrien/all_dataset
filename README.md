@@ -1,2 +1,2 @@
 # all_dataset
-This repository will contain all my public dataset used in google colab
+This repository contains all public dataset that used in google colab
